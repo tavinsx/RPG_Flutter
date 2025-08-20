@@ -1,5 +1,5 @@
 ### Descrição do Trabalho
-
+[Projeto Demo](./demo/rpg_v2/)
 Neste trabalho prático, o objetivo é desenvolver um jogo de RPG por turnos em Dart, utilizando os principais pilares da Programação Orientada a Objetos. O projeto será construído de forma incremental, permitindo aplicar conceitos como classes, encapsulamento, herança, polimorfismo e composição. A cada etapa, serão definidos atributos, comportamentos (métodos) e testes que validam o funcionamento do sistema.
 
 O jogo contará com personagens jogáveis (Heróis) e inimigos (Monstros), cada um com atributos próprios. Posteriormente, o sistema será estendido com Raças e Arquétipos, cada um com habilidades especiais, incentivando o uso de abstrações e heranças.
