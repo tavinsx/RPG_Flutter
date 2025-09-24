@@ -15,6 +15,7 @@ class Monstro extends Personagem {
         _tipoCriatura = tipoCriatura;
   }
 
+  // ignore: recursive_getters
   String get _origem => _origem;
   String get _tipoCriatura => _tipoCriatura;
 

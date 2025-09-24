@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project_flutter/presenter/arena/arena_view.dart';
-import 'package:project_flutter/presenter/history/history-view.dart';
+import 'package:project_flutter/presenter/history/history_view.dart';
 import 'package:project_flutter/presenter/person/person_view.dart';
 
 

@@ -31,8 +31,9 @@ class PersonView extends StatelessWidget {
         final personagem = _personagens[index];
         return ListTile(
           title: Text(personagem.nome),
-          subtitle: ListTile(subtitle: Text('Vida: ${personagem.vida}, Escudo: ${personagem.escudo}, Velocidade: ${personagem.velocidade}'),
-        )
+          subtitle: ListTile(subtitle: Text('Vida: ${personagem.vida}, Escudo: ${personagem.escudo}, Velocidade: ${personagem.velocidade}')),
+        
+        );
       },
     );
   }
